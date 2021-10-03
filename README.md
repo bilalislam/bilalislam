@@ -1,4 +1,4 @@
-# 👋  Hi, I'm Bilal İslam from :Turkey:
+# 👋  Hi, I'm Bilal İslam from Turkey
 
 <!--
 **bilalislam/bilalislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
