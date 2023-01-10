@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 
 [Linkedin](https://www.linkedin.com/in/bilalislam/)
 
+
+# :octocat: Github contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=bilalislam&show_icons=true&count_private=true&theme=algolia" alt="bilalislam" />
