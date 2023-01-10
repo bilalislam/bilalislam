@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me
 
-[Linkedin](https://www.linkedin.com/in/bilalislam/)
+[Linkedin](https://www.linkedin.com/in/bilalislam/), [Medium](https://medium.com/@bilalislam815)
 
 
 # :octocat: Github contributions
