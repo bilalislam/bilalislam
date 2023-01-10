@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-👯 I'm working for [TurkNet](https://turk.net/) company.
+👯 I'm working as a software engineer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bilalislam.bilalislam)
 [<img alt="github" src="https://img.shields.io/badge/github-bilalislam-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/bilalislam)
