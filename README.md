@@ -35,8 +35,3 @@ Here are some ideas to get you started:
 
 [Linkedin](https://www.linkedin.com/in/bilalislam/)
 
-<p align="left">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalislam&layout=compact" alt="bilalislam" />&nbsp;-->
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalislam&show_icons=true&count_private=true&theme=algolia" alt="bilalislam" />
-</p>
-
