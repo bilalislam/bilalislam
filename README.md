@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 # :octocat: Github contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=bilalislam&show_icons=true&count_private=true&theme=algolia" alt="bilalislam" />
+<img src="https://github-readme-stats.vercel.app/api?username=bilalislam" alt="bilalislam" />
