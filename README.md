@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **bilal.islam815@gmail.com**
 
-- 📄 Know about my experiences [github.com/bilalislam](github.com/bilalislam)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
